@@ -16,3 +16,17 @@ florique@K3K:~/smol$ tree .
 
 1 directory, 6 files
 ```
+
+Le output:
+```
+Results from expensive tea decorator:
+
+      Type Price
+ 0      NA    NA
+ 1  matcha    20
+ 2      NA    NA
+ 3      NA    NA
+```
+
+<br>
+<i> omw 2 write docs </i>
